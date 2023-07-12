@@ -1,6 +1,6 @@
-# untitled4
+# Besaran dan Satuan
 
-A new Flutter project.
+Aplikasi pembelajaran "Besaran dan Satuan" untuk mobile (android).
 
 ## Getting Started
 
